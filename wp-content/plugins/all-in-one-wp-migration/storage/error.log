@@ -1,0 +1,24 @@
+May 03 2017 20:27:35
+{"Number":2,"Message":"fopen(\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/themes\/lfh\/src\/assets\/athmo\/athmo_acker.jpg): failed to open stream: Permission denied","File":"\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":727}
+
+May 03 2017 20:27:35
+{"Number":2,"Message":"fopen(\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/themes\/lfh\/src\/assets\/athmo\/athmo_kornfeld.jpg): failed to open stream: Permission denied","File":"\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":727}
+
+May 03 2017 20:27:35
+{"Number":2,"Message":"fopen(\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/themes\/lfh\/src\/assets\/athmo\/athmo_wald.jpg): failed to open stream: Permission denied","File":"\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":727}
+
+May 03 2017 20:27:35
+{"Number":2,"Message":"fopen(\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/themes\/lfh\/src\/assets\/athmo\/athmo_biene.jpg): failed to open stream: Permission denied","File":"\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":727}
+
+May 07 2017 18:13:54
+{"Number":2,"Message":"fopen(\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/themes\/lfh\/src\/assets\/athmo\/athmo_acker.jpg): failed to open stream: Permission denied","File":"\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":727}
+
+May 07 2017 18:13:54
+{"Number":2,"Message":"fopen(\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/themes\/lfh\/src\/assets\/athmo\/athmo_kornfeld.jpg): failed to open stream: Permission denied","File":"\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":727}
+
+May 07 2017 18:13:54
+{"Number":2,"Message":"fopen(\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/themes\/lfh\/src\/assets\/athmo\/athmo_wald.jpg): failed to open stream: Permission denied","File":"\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":727}
+
+May 07 2017 18:13:54
+{"Number":2,"Message":"fopen(\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/themes\/lfh\/src\/assets\/athmo\/athmo_biene.jpg): failed to open stream: Permission denied","File":"\/var\/www\/landfrauen-harburg.de\/htdocs\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":727}
+
